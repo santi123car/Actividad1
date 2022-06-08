@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background: url(https://i.pinimg.com/originals/f4/49/7d/f4497d17dc3b610aa04cd39d8f0d9e2f.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+    font-family: Helvetica, ;
+}
+
+nav{
+
+    background-color: black(119, 136, 153, 0.212);
+    width: 100%;
+}
+
+.menu{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.lista a{
+
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 15px 50px;
+}
